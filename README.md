@@ -10,8 +10,8 @@ Learned C++ before, but starting from scratch again + will be rectifying my **sk
 
 #### _**3.0 My Setup**_
 
+1. NixOS 25.06
+2. Neovim v0.12.3
+3. packages (nix): `g++`, `gnumake`, `cmake`, `gdb`
 
 #### _**4.0 To Do**_
-- [ ] 
-- [ ] 
-- [ ] 
