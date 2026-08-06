@@ -15,4 +15,7 @@
 2. Neovim v0.12.3
 3. packages (nix): `g++`, `gnumake`, `cmake`, `gdb`
 
-#### _**4.0 To Do**_
+#### _**4.0 Directory**_
+
+- `basics/` : notes from video tutorials and self notes.
+- `fafo/` : f' around and find out projects.
