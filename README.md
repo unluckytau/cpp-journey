@@ -1,4 +1,4 @@
-# <p align="center"> _**C++ Journey**_ </p>
+# <p align="center"> _**C++ Stuffs**_ </p>
 
 #### _**1.0 Overview**_
 
