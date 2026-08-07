@@ -7,7 +7,7 @@
 
 #### _**2.0 My Resources**_
 
-1. [C++ Full Course for free by Bro Code](https://www.youtube.com/watch?v=-TkoO8Z07hI) _**[Bookmark, 2:38:12]**_
+1. [C++ Full Course for free by Bro Code](https://www.youtube.com/watch?v=-TkoO8Z07hI) _**[Bookmark, 3:38:18]**_
 
 #### _**3.0 My Setup**_
 
